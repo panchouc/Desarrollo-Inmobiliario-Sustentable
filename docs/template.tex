@@ -286,7 +286,7 @@ de forma sustentable puede funcionar sin problemas en el largo plazo aportando c
 	\item P: presupuesto (\$)
 	\item $D$: Cantidad de personas que se deben ubicar (demanda)
 	\item $B_{tk}$: cantidad mínima a utilizar del material de tipo t por piso de la edificación k. $\forall m \in M, \forall k \in K$
- 	\item Parámetro auxiliar
+ 	\item s: Parámetro auxiliar
 \end{enumerate}
 
 
@@ -576,7 +576,7 @@ La instancia de parámetros utilizados es
 	}
 	\end{table}
 
-
+\newpage
 \section{Resultados}
 \subsection{Solución y valor óptimo}
 \begin{table}[ht]
@@ -619,7 +619,7 @@ pues cuando disminuimos de la demanda igual a 500, a 350, el modelo simplemente 
 es importante mencionar que entre iteración con distintos parámetros, el modelo puede variar drásticamente el tiempo de ejecución, desconocemos la razón de esto, pues de vez en cuando demora muy poco y al cambiar
 un poquito ciertos parámetros, puede demorar mucho.
 
-\newpage
+
 \section{Análisis de sensibilidad}
 Al trabajar con el modelo y perturbar ciertos parámetros en específico, este da cuenta el grado de sensibilidad presentado ante el cambio de cada uno de ellos. Para el caso del cambio del lado derecho de la restricción 
 correspondiente al cumpliemento de área mínima por habitante, en la restricción 8, este valor es sumamente influyente a los resultado del modelo. Incluso, un pequeño cambio en el valor del área mínima por habitante puede 

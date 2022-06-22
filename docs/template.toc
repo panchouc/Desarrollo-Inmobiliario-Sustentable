@@ -1,0 +1,31 @@
+\babel@toc {spanish}{}
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Descripción del problema}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Contexto}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Importancia de resolverlo}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Objetivos que persigue}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Decisiones}{4}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Datos requeridos}{4}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Restricciones existentes}{5}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Elección del problema}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Impacto}{6}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Modelación del Problema}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Supuestos}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Conjuntos}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Parámetros}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Variables}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Restricciones}{8}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Función objetivo}{10}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Naturaleza de las variables}{10}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Observaciones}{10}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Observación 1}{10}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}Observación 2}{11}{subsubsection.3.8.2}%
+\contentsline {section}{\numberline {4}Definición de Datos}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Justificación de supuestos}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Instancia de datos}{12}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Resultados}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Solución y valor óptimo}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Análisis}{14}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Análisis de sensibilidad}{15}{section.6}%
+\contentsline {section}{\numberline {7}Conclusiones}{16}{section.7}%
+\contentsline {section}{\numberline {8}Bibliografía}{18}{section.8}%
