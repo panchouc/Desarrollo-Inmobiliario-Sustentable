@@ -28,7 +28,7 @@ pip install -r requirements.txt
 # Funcionamiento
 El archivo que debe ser ejecutado es el main.py. Cerciosarse de estar en el directorio correcto. Para esto ocupar
 ```sh
-cd Optimization-Project/
+cd Desarrollo-Inmobiliario-Sustentable/
 ```
 En el archivo grilla.py encontrara las funciones asociadas a la creación de la matriz y lectura de archivo excel.
 En el archivo main.py también se encuentran ciertas funciones al inicio del código. Estas no se pudieron traspasar a otro archivo individual, ya que dependen de ciertas variables para poder ejecutarse. 
